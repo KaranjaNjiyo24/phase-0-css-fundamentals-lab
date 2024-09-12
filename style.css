@@ -33,7 +33,7 @@ nav a {
   margin: 0 5px; /* Adds a 5px margin to the left and right of each link */
   text-decoration: none; /* Removes underline from the links */
   color: white; /* Sets the text color to white */
-  background-color: grey; /* Sets the background color of links to grey */
+  background-color: rgb(17, 125, 226); /* Sets the background color of links to blue */
   border-radius: 5px; /* Rounds the corners of the links */
 }
 
@@ -72,7 +72,7 @@ nav a:hover {
   text-align: center; /* Centers the text within each div */
   padding: 20px; /* Adds padding around the content inside each div */
   box-sizing: border-box; /* Ensures padding is included in the width calculation */
-  background-color: #e0e0e0; /* Sets a slightly darker grey background color for each div */
+  background-color: #db0f0f; /* Sets a red background color for each div */
 }
 
 /* Clean up div styles */
